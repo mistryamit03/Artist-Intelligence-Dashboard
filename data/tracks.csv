@@ -1,0 +1,16 @@
+track_id,artist_id,track_name,release_name,release_type,release_date,genre,is_catalog
+TR001,AR001,Midnight Drive,Midnight Drive,Single,2024-03-15,Pop,False
+TR002,AR001,Never Break,Never Break,Single,2024-03-20,Pop,False
+TR003,AR001,Another Life,Another Life,Single,2024-02-14,Pop,False
+TR004,AR001,Falling Again,Falling Again,Single,2024-02-05,Pop,False
+TR005,AR001,Home,Home,Single,2023-10-30,Pop,True
+TR006,AR001,City Lights,City Lights,Single,2024-03-15,Pop,False
+TR007,AR001,Before Sunrise,Before Sunrise,Single,2023-09-12,Pop,True
+TR008,AR001,Echo Hearts,Echo Hearts,Single,2023-12-11,Pop,True
+TR009,AR001,Neon Rain,Neon Rain,Single,2023-08-18,Pop,True
+TR010,AR001,Velvet Sky,Velvet Sky,Album Track,2023-06-02,Pop,True
+TR011,AR002,Signal Blue,Signal Blue,Single,2024-03-05,Electronic,False
+TR012,AR002,After Midnight,After Midnight,Single,2024-01-19,Electronic,False
+TR013,AR003,No Limits,No Limits,Single,2024-02-09,Hip-Hop,False
+TR014,AR003,Street Echo,Street Echo,Single,2023-11-22,Hip-Hop,True
+TR015,AR004,Paris Morning,Paris Morning,Single,2024-03-01,Indie Pop,False

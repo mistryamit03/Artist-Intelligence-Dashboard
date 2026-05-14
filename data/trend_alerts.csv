@@ -1,0 +1,5 @@
+alert_id,artist_id,track_id,market,alert_type,alert_text,metric_name,current_value,previous_value,change_pct,alert_timestamp,severity
+AL001,AR001,TR006,France,Market Spike,Track 'City Lights' grew +42% WoW in France.,streams_wow_growth,1710000,1204000,42.0,2024-04-30 09:15:00,High
+AL002,AR001,TR001,Germany,Follower Growth,LUNA followers in Germany grew +31% in the last 7 days.,followers_growth,312000,238000,31.0,2024-04-30 08:40:00,High
+AL003,AR001,TR003,United States,Decline,'Another Life' streams dropped -18% WoW in the United States.,streams_wow_growth,420000,512000,-18.0,2024-04-30 07:22:00,Medium
+AL004,AR001,TR007,Global,Catalog Revival,Catalog track 'Before Sunrise' is spiking on TikTok.,tiktok_streams_growth,198000,120000,65.0,2024-04-30 06:50:00,High

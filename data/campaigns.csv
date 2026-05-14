@@ -1,0 +1,5 @@
+campaign_id,artist_id,track_id,campaign_name,channel,market,start_date,end_date,spend_eur,objective
+CA001,AR001,TR006,TikTok Boost,TikTok Ads,France,2024-04-01,2024-04-30,20000,Awareness
+CA002,AR001,TR002,Instagram Push,Instagram Ads,Germany,2024-04-01,2024-04-30,15000,Fan Conversion
+CA003,AR001,TR003,YouTube Ads,YouTube Ads,United States,2024-04-01,2024-04-30,15000,Video Reach
+CA004,AR001,TR001,Spotify Marquee,Spotify Ads,Germany,2024-04-01,2024-04-30,10000,Release Amplification

@@ -1,0 +1,5 @@
+recommendation_id,artist_id,track_id,recommendation_type,priority,recommendation_text,business_reason,estimated_impact
+REC001,AR001,TR006,Playlist Amplification,High,Amplify 'City Lights' in France through playlist pitching and paid support.,France shows strong WoW growth and the track has a strong save rate.,+320K streams
+REC002,AR001,TR002,Retargeting,High,Boost Instagram retargeting for 'Never Break'.,"Instagram has lower reach than TikTok, but stronger retention and save behavior.",+180K saves
+REC003,AR001,TR007,Catalog Revival,Medium,Revive catalog track 'Before Sunrise' with TikTok creator posts.,The track has low reach but high save rate and rising TikTok usage.,+140K streams
+REC004,AR001,TR003,Budget Reallocation,Medium,Reduce YouTube budget for 'Another Life' in the United States.,The campaign has high reach but weak save rate and declining WoW performance.,Avoid inefficient spend

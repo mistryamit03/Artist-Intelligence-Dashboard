@@ -1,0 +1,6 @@
+date,artist_id,track_id,playlist_name,playlist_type,platform,market,playlist_reach,playlist_adds,playlist_streams,saves_from_playlist
+2024-04-30,AR001,TR001,Today's Top Hits,Editorial,Spotify,Global,12500000,18200,1260000,118440
+2024-04-30,AR001,TR002,Viral Hits,Algorithmic,Spotify,Global,8900000,14700,982000,79542
+2024-04-30,AR001,TR006,New Music Friday,Editorial,Spotify,Germany,5600000,9300,712000,72624
+2024-04-30,AR001,TR007,Fresh Finds,User Generated,Spotify,Germany,2400000,5100,432000,38448
+2024-04-30,AR001,TR003,Pop Rising,Algorithmic,Spotify,United States,3300000,6800,512000,38912
